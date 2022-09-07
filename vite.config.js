@@ -1,3 +1,3 @@
 import { defineConfig } from "vite";
 
-export default defineConfig({ base: '/Samurai-killer-phaser/' })
+export default defineConfig({ base: '/Samurai-killer-phaser/', publicDir: "public" })
